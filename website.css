@@ -1,0 +1,62 @@
+header{
+	text-align:center;
+	height:150%;
+	font-size: 150%;
+	color:black;
+	background-image: url(assets/star.jpg);
+	font-family: arial cursive;
+	margin-bottom:20px ;
+	
+}
+div{
+	font-size:200%;
+	font-family: cursive;
+}
+.lol{
+    font-family:cursive;
+    font-size:100%;
+    font-style: italic;
+}
+p{
+	font-size: 150%;
+	margin-left: 5px;
+}
+body{
+	margin:10px;
+	padding:15px;
+}
+h1,h2{
+	margin-left: 5px;
+}
+ul{
+	list-style-type:square; 
+	font-size: 150%;
+
+}
+a{
+	font-style:serif;
+	font-family: cursive;
+	font-size: 150%;
+	color:blue;
+}
+ a:hover{
+    	    background:yellow;
+    	    color:red;
+    }
+    a:focus{
+    	    background: #0006CC;
+    	    color:red;
+    }
+ h2{
+ 	text-decoration: underline;
+ 	background: #626f80;
+
+ }
+ .college{
+ 	border: 5px solid black;
+ 	padding: 5px;
+ 	margin:100px auto;
+ 	width:90%;
+ 	height: 100%;
+ 	overflow: scroll;
+ }
